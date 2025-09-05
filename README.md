@@ -4,7 +4,7 @@
 
 ## 🚀 **Live Demo**
 
-**🌐 Try it now:** [https://magnet-2-direct-bakhvx8pa-sh13y.vercel.app](https://magnet-2-direct-bakhvx8pa-sh13y.vercel.app)
+**🌐 Try it now:** [https://seedr.eu.org](https://seedr.eu.org)
 
 *No installation needed - just paste your magnet link and enjoy!* ✨
 
@@ -114,11 +114,12 @@ python simple_magnet2direct.py
 
 ## 🌐 **Live Deployment**
 
-The app is also deployed on **Vercel** for instant access:
-- **Live Demo:** [magnet-2-direct-bakhvx8pa-sh13y.vercel.app](https://magnet-2-direct-bakhvx8pa-sh13y.vercel.app)
-- **Global CDN** - Fast loading worldwide
-- **Automatic HTTPS** - Secure by default
-- **Serverless** - Scales automatically
+The app is deployed on **Vercel** with a custom domain for instant access:
+- **🌟 Live App:** [https://seedr.eu.org](https://seedr.eu.org)
+- **🚀 Global CDN** - Fast loading worldwide
+- **🔒 Automatic HTTPS** - Secure by default
+- **⚡ Serverless** - Scales automatically
+- **📱 Mobile Optimized** - Works perfectly on all devices
 
 ### **🚀 Deploy Your Own:**
 ```bash
@@ -126,7 +127,10 @@ The app is also deployed on **Vercel** for instant access:
 npm install -g vercel
 vercel login
 vercel --prod
+# Add your custom domain in Vercel dashboard
 ```
+
+> **💡 Domain Choice:** The `seedr.eu.org` domain perfectly represents what this tool does - it's all about making Seedr easier to use! Plus, it's short, memorable, and professional. 🎯
 
 ## 🎮 How to Use (For Dummies and Smart People Alike)
 

@@ -35,7 +35,7 @@ HTML_TEMPLATE = """
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🧲 Magnet2Direct</title>
+    <title>Magnet 2 Direct</title>
     <style>
         * {
             margin: 0;
@@ -534,6 +534,46 @@ HTML_TEMPLATE = """
                 padding: 15px;
             }
         }
+        
+        /* Footer */
+        .footer {
+            margin-top: 50px;
+            padding: 30px 20px;
+            text-align: center;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 15px;
+            border: 1px solid #e2e8f0;
+            color: #6c757d;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .footer a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+        
+        .footer a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+        
+        .footer .disclaimer {
+            font-size: 12px;
+            color: #868e96;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        @media (max-width: 768px) {
+            .footer {
+                margin-top: 30px;
+                padding: 20px 15px;
+                font-size: 13px;
+            }
+        }
     </style>
     
     <script>
@@ -881,6 +921,21 @@ HTML_TEMPLATE = """
         
         <div id="status" class="progress-container" style="display: none;"></div>
         <div id="result" class="result" style="display: none;"></div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <div>
+                🍿 <strong>Need magnet links?</strong> <a href="https://github.com/sh13y" target="_blank" rel="noopener">My</a> favorite spot: 
+                <a href="https://watchsomuch.to/" target="_blank" rel="noopener">WatchSoMuch</a> 
+                <br>
+                🎬 <em>"It's like Netflix, but with more... freedom!"</em> 😉
+            </div>
+            <div class="disclaimer">
+                ⚖️ For educational purposes only. We're just converting links here - what you download is between you and your conscience! 
+                <br>
+                Made with ❤️ (and lots of backpain) for fellow movie lovers who hate repetitive clicking.
+            </div>
+        </div>
     </div>
 </body>
 </html>
