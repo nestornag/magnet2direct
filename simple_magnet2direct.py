@@ -11,15 +11,18 @@ app = Flask(__name__)
 DEFAULT_EMAIL = ""
 DEFAULT_PASSWORD = ""
 
-# Download folder
-DOWNLOAD_FOLDER = os.path.join(os.path.expanduser("~"), "Downloads", "Magnet2Direct")
+# Download folder (for local development only)
+DOWNLOAD_FOLDER = os.path.join(os.path.expanduser("~"), "Downloads", "Magnet2Direct") if os.path.expanduser("~") != "~" else "/tmp"
 
 # Global variables
 download_status = {"progress": 0, "status": "idle", "filename": "", "download_url": "", "file_size": "", "error": ""}
 
-# Create download folder
-if not os.path.exists(DOWNLOAD_FOLDER):
-    os.makedirs(DOWNLOAD_FOLDER)
+# Create download folder (only if not in serverless environment)
+try:
+    if not os.path.exists(DOWNLOAD_FOLDER) and os.path.expanduser("~") != "~":
+        os.makedirs(DOWNLOAD_FOLDER)
+except:
+    pass  # Skip folder creation in serverless environments
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
