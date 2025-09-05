@@ -185,7 +185,13 @@ Want to make this even more awesome? We welcome contributions!
 
 ## 📜 License
 
-This project is licensed under the "Do Whatever You Want But Don't Sue Me" License (also known as MIT). See the LICENSE file for the boring legal details.
+This project is licensed under the **WTFPL (Do What The F*ck You Want To Public License)** - because life's too short for complicated legal jargon! 
+
+**TL;DR:** Do whatever you want with this code. Seriously. We don't care. Use it, abuse it, improve it, break it, sell it, give it away, tattoo it on your forehead - we're cool with whatever! 
+
+The only rule is: **There are no rules!** 🎉
+
+See the LICENSE file for the "official" (but still hilarious) legal text.
 
 ## 🙏 Acknowledgments
 
