@@ -24,7 +24,11 @@ Magnet2Direct is like having a personal movie genie, but instead of three wishes
 1. **Paste any magnet link** (even the sketchy ones from that forum you pretend you don't visit)
 2. **Let Seedr do the heavy lifting** (while you make popcorn 🍿)
 3. **Get a direct download link** for the biggest video file (because nobody wants the 480p version)
-4. **Copy URL or download directly** (your choice, we're not clingy)
+4. **Copy URL or download directly** 
+   - **Copy URL**: Use with your favorite download manager (IDM, uTorrent Web, etc.)
+   - **Download**: Downloads directly to your browser's default download folder
+
+> **Note:** The app doesn't store files on the server - it just gives you direct links to download from Seedr!
 
 ### 🌟 **Epic Features:**
 - **🔐 Multi-User Support** - Share with friends (but not enemies)
@@ -115,7 +119,7 @@ magnet2direct/
 ├── apple-touch-icon.png      # Because iOS users deserve nice things
 ├── site.webmanifest          # PWA magic (we're fancy like that)
 ├── README.md                 # This beautiful document you're reading
-└── /Downloads/Magnet2Direct/ # Where your movies will live
+└── requirements.txt          # Dependencies for easy installation
 ```
 
 ## 🎭 Features That Make Us Special
