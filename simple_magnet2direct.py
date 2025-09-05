@@ -342,7 +342,7 @@ HTML_TEMPLATE = """
             position: absolute;
             top: 15px;
             left: 15px;
-            background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
+            background: linear-gradient(135deg, #667eea 0%, #38a169 100%);
             color: white;
             border: none;
             border-radius: 50%;
