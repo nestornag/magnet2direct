@@ -60,7 +60,7 @@ This masterpiece is crafted with love and the following technologies:
 ### **🐍 Backend Magic:**
 - **Python 3.8+** - Because life's too short for Python 2
 - **Flask** - Lightweight and fast, like a ninja
-- **seedrcc** - The hero library that talks to Seedr
+- **[seedrcc](https://github.com/hemantapkh/seedrcc)** - The hero library by [@hemantapkh](https://github.com/hemantapkh) that reverse-engineered Seedr's API 🕵️‍♂️
 - **requests** - For when you need to fetch things politely
 
 ### **🎨 Frontend Wizardry:**
@@ -242,6 +242,12 @@ See the LICENSE file for the "official" (but still hilarious) legal text.
 ## 🙏 Acknowledgments
 
 - **Seedr** - For making cloud torrenting not suck
+- **[hemantapkh](https://github.com/hemantapkh)** - The absolute legend who created **[seedrcc](https://github.com/hemantapkh/seedrcc)** 🏆
+  
+  > *"While Seedr.cc offers a premium API, it is not available to free users. This library was built by studying the network requests from the official Kodi and Chrome extensions."* - hemantapkh
+  
+  Without this incredible reverse-engineering work, Magnet2Direct wouldn't exist! This guy literally studied network requests like a detective to make the impossible possible. Mad respect! 🕵️‍♂️💻
+
 - **The Flask Team** - For making web development fun again
 - **Coffee** - The real MVP of this project
 - **Every movie ever made** - For inspiring this creation
