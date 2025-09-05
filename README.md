@@ -8,6 +8,14 @@
 
 *No installation needed - just paste your magnet link and enjoy!* ✨
 
+## 🎥 **How It Works (Video Demo)**
+
+Watch the magic happen in less than 30 seconds! 🪄
+
+https://github.com/user-attachments/assets/5d16b145-1ddd-41ef-a0dd-04fca95fc232
+
+*See how simple it is? From magnet link to download in just a few clicks!* 🎬
+
 ## 🎬 Why This Exists (A Love Letter to Movies)
 
 Once upon a time, there was a developer who **ABSOLUTELY LOVED** watching movies. We're talking the kind of love where you have a watchlist longer than the Marvel timeline, and you've seen every single "The Fast and The Furious" movie (yes, even the weird Tokyo Drift one). 
