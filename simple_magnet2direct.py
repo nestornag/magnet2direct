@@ -925,7 +925,7 @@ HTML_TEMPLATE = """
         <!-- Footer -->
         <div class="footer">
             <div>
-                🍿 <strong>Need magnet links?</strong></br><a href="https://github.com/sh13y" target="_blank" rel="noopener">My</a> favorite spot: 
+                🍿 <strong>Need magnet links?</strong></br><a href="https://github.com/sh13y" target="_blank" rel="noopener">my</a> favorite spot: 
                 <a href="https://watchsomuch.to/" target="_blank" rel="noopener">WatchSoMuch</a> 
                 <br>
                 🎬 <em>"It's like Netflix, but with more... freedom!"</em> 😉
