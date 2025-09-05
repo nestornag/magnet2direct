@@ -2,6 +2,12 @@
 
 > *"Because life's too short to wait for seeders, and too long to watch ads on streaming sites!"* 🍿
 
+## 🚀 **Live Demo**
+
+**🌐 Try it now:** [https://magnet-2-direct-bakhvx8pa-sh13y.vercel.app](https://magnet-2-direct-bakhvx8pa-sh13y.vercel.app)
+
+*No installation needed - just paste your magnet link and enjoy!* ✨
+
 ## 🎬 Why This Exists (A Love Letter to Movies)
 
 Once upon a time, there was a developer who **ABSOLUTELY LOVED** watching movies. We're talking the kind of love where you have a watchlist longer than the Marvel timeline, and you've seen every single "The Fast and The Furious" movie (yes, even the weird Tokyo Drift one). 
@@ -105,6 +111,22 @@ python simple_magnet2direct.py
 ```
 
 **🎉 BOOM!** Open `http://localhost:5000` and start converting those magnet links!
+
+## 🌐 **Live Deployment**
+
+The app is also deployed on **Vercel** for instant access:
+- **Live Demo:** [magnet-2-direct-bakhvx8pa-sh13y.vercel.app](https://magnet-2-direct-bakhvx8pa-sh13y.vercel.app)
+- **Global CDN** - Fast loading worldwide
+- **Automatic HTTPS** - Secure by default
+- **Serverless** - Scales automatically
+
+### **🚀 Deploy Your Own:**
+```bash
+# Fork the repo, then:
+npm install -g vercel
+vercel login
+vercel --prod
+```
 
 ## 🎮 How to Use (For Dummies and Smart People Alike)
 
