@@ -855,7 +855,7 @@ HTML_TEMPLATE = """
         
         <h1>🧲 Magnet2Direct</h1>
         <p class="subtitle">
-            Add magnet link → Find biggest video → Copy URL or Download
+            No more Seedr login marathons - Just paste, wait & enjoy! 🍿
         </p>
         
         <div id="account-info" class="account-info" style="display: none;">
